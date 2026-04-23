@@ -12,7 +12,6 @@ export const VapiExample = () => {
       <div style={{ marginTop: '20px' }}>
         <h3>How it works:</h3>
         <ol>
-          <li>Make sure you have set up your environment variables</li>
           <li>Click "Start Call" to begin the conversation</li>
           <li>Speak naturally with the assistant</li>
           <li>Click "End Call" when finished</li>
