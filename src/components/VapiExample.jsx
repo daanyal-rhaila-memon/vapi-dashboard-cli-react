@@ -4,7 +4,7 @@ import { VapiButton } from './VapiButton';
 export const VapiExample = () => {
   return (
     <div style={{ padding: '20px' }}>
-      <h2>Vapi Voice Assistant Example</h2>
+      <h2>Customer Care Agent</h2>
       <p>Click the button below to start a voice conversation:</p>
       
       <VapiButton />
